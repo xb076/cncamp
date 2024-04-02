@@ -1,0 +1,53 @@
+
+[2024-04-02 19:31:37.2462]<INFO>Client start
+[2024-04-02 19:31:38.2796]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 0>
+[2024-04-02 19:31:38.2802]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 0>
+[2024-04-02 19:31:39.2834]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 1>
+[2024-04-02 19:31:39.2834]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 1>
+[2024-04-02 19:31:40.2741]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 2>
+[2024-04-02 19:31:40.2743]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 2>
+[2024-04-02 19:31:41.2775]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 3>
+[2024-04-02 19:31:41.2775]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 3>
+[2024-04-02 19:31:42.2681]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 4>
+[2024-04-02 19:31:42.2688]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 4>
+[2024-04-02 19:31:43.2732]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 5>
+[2024-04-02 19:31:43.2738]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 5>
+[2024-04-02 19:31:44.2756]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 6>
+[2024-04-02 19:31:44.2756]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 6>
+[2024-04-02 19:31:45.2816]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 7>
+[2024-04-02 19:31:45.2822]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 7>
+[2024-04-02 19:31:46.2700]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 8>
+[2024-04-02 19:31:46.2701]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 8>
+[2024-04-02 19:31:47.2773]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 9>
+[2024-04-02 19:31:47.2773]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 9>
+[2024-04-02 19:31:48.2803]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 10>
+[2024-04-02 19:31:48.2803]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 10>
+[2024-04-02 19:31:49.2838]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 11>
+[2024-04-02 19:31:49.2838]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 11>
+[2024-04-02 19:31:50.2729]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 12>
+[2024-04-02 19:31:50.2729]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 12>
+[2024-04-02 19:31:51.2771]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 13>
+[2024-04-02 19:31:51.2782]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 13>
+[2024-04-02 19:31:52.2694]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 14>
+[2024-04-02 19:31:52.2700]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 14>
+[2024-04-02 19:31:53.2739]<INFO>Client#<0> Receive: <Server msg: thread id: 1, msg id: 15>
+[2024-04-02 19:31:53.2744]<INFO>Client#<1> Receive: <Server msg: thread id: 0, msg id: 15>
+[2024-04-02 19:31:53.7547]<INFO>Client closed
+[2024-04-02 19:35:24.9735]<INFO>Client start
+[2024-04-02 19:35:26.0080]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 0>
+[2024-04-02 19:35:26.0085]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 0>
+[2024-04-02 19:35:27.0101]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 1>
+[2024-04-02 19:35:27.0101]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 1>
+[2024-04-02 19:35:28.0116]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 2>
+[2024-04-02 19:35:28.0122]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 2>
+[2024-04-02 19:35:28.9972]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 3>
+[2024-04-02 19:35:28.9978]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 3>
+[2024-04-02 19:35:30.0012]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 4>
+[2024-04-02 19:35:30.0012]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 4>
+[2024-04-02 19:35:31.0035]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 5>
+[2024-04-02 19:35:31.0041]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 5>
+[2024-04-02 19:35:32.0087]<INFO>Client#<0> Receive: <Server msg: thread id: 0, msg id: 6>
+[2024-04-02 19:35:32.0092]<INFO>Client#<1> Receive: <Server msg: thread id: 1, msg id: 6>
+[2024-04-02 19:35:32.9999]<ERROR>Client error: <write tcp 127.0.0.1:7211->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host.>
+[2024-04-02 19:35:33.0004]<ERROR>Client error: <write tcp 127.0.0.1:7212->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host.>
+[2024-04-02 19:35:37.9525]<INFO>Client closed
